@@ -1,4 +1,4 @@
-TweenMax.to('#logo1', 1, {x:800, y:800, ease: Power4.easeInOut, delay:0});
+//TweenMax.to('#logo1', 1, {x:800, y:800, ease: Power4.easeInOut, delay:0});
 
 
 //TweenMax.to('#logo1', 1, {x:500, y:200, delay:2});
